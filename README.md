@@ -73,7 +73,8 @@ The application follows a simple client-server architecture.
                     Data Storage
 
 The React frontend communicates with the Node.js/Express backend through REST API endpoints. The backend manages application data stored in a JSON file.
-📂 Project Structure
+
+## 📂 Project Structure
 job-tracker/
 │
 ├── public/
@@ -110,7 +111,7 @@ job-tracker/
 └── README.md
 
 
-🔗 API Endpoints
+## 🔗 API Endpoints
 
 | Method | Endpoint                | Description            |
 | ------ | ----------------------- | ---------------------- |
@@ -120,7 +121,7 @@ job-tracker/
 | DELETE | `/api/applications/:id` | Delete an application  |
 
 
-🚀 How to Run the Project
+## 🚀 How to Run the Project
 Prerequisites
 
 Make sure the following are installed:
@@ -148,7 +149,7 @@ The frontend will run on:
     http://localhost:5173
 Open the frontend URL in your browser.
 
-🔄 Application Workflow
+## 🔄 Application Workflow
  User
   ↓
 React Frontend
@@ -164,12 +165,22 @@ applications.json
 Response
   ↓
 React Dashboard
+```
+## 📸 Screenshots
 
+### Dashboard
 
-📸 Screenshots
+![JobTracker Dashboard](./public/screenshots/dashboard.png)
 
-Screenshots of the application will be added here.
-🎯 Learning Outcomes
+### Application Form
+
+![Application Form](./public/screenshots/application-form.png)
+
+### Application Card
+
+![Application Card](./public/screenshots/application-card.png)
+
+##🎯 Learning Outcomes
 
 Through this project, the following concepts were implemented:
 
@@ -183,7 +194,8 @@ Node.js and Express.js
 JSON-based data persistence
 Frontend-backend integration
 Git and GitHub version control
-🔮 Future Enhancements
+
+##🔮 Future Enhancements
 
 Possible future improvements include:
 
@@ -195,7 +207,7 @@ Advanced analytics
 Calendar integration
 
 
-👩‍💻 Author
+##👩‍💻 Author
 
 Shruti
 GitHub: https://github.com/Shruti-0105
