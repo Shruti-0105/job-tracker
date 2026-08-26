@@ -180,34 +180,33 @@ React Dashboard
 
 ![Application Card](./public/screenshots/application-card.png)
 
-##🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 Through this project, the following concepts were implemented:
 
-React component-based development
-React state management
-Form handling
-API integration using Fetch API
-REST API development
-CRUD operations
-Node.js and Express.js
-JSON-based data persistence
-Frontend-backend integration
-Git and GitHub version control
+- React component-based development
+- React state management
+- Form handling
+- API integration using Fetch API
+- REST API development
+- CRUD operations
+- Node.js and Express.js
+- JSON-based data persistence
+- Frontend-backend integration
+- Git and GitHub version control
 
-##🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 Possible future improvements include:
 
-User authentication
-Database integration
-Email notifications for interviews
-Online deployment
-Advanced analytics
-Calendar integration
+- User authentication
+- Database integration
+- Email notifications for interviews
+- Online deployment
+- Advanced analytics
+- Calendar integration
 
+## 👩‍💻 Author
 
-##👩‍💻 Author
-
-Shruti
+Shruti  
 GitHub: https://github.com/Shruti-0105
