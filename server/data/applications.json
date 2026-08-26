@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1786535222882,
+    "company": "Google",
+    "role": "Software Engineer Intern",
+    "location": "Gurgaon",
+    "type": "Internship",
+    "status": "Applied",
+    "date": "2026-08-12",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "id": 1786535244477,
+    "company": "Microsoft",
+    "role": "Software Engineer Intern",
+    "location": "Pune",
+    "type": "Full-time",
+    "status": "Interview",
+    "date": "2026-08-07",
+    "link": "",
+    "notes": "",
+    "interviewDate": "2026-08-20",
+    "important": true
+  },
+  {
+    "id": 1786535264579,
+    "company": "Airtel",
+    "role": "Software Engineer Intern",
+    "location": "Banglore",
+    "type": "Internship",
+    "status": "Selected",
+    "date": "2026-08-01",
+    "link": "",
+    "notes": ""
+  },
+  {
+    "id": 1786537396678,
+    "company": "Apple",
+    "role": "Software Engineer Intern",
+    "location": "London",
+    "type": "Full-time",
+    "status": "Applied",
+    "date": "2026-08-12",
+    "interviewDate": "2026-08-26",
+    "important": false,
+    "link": "",
+    "notes": ""
+  }
+]
